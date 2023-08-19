@@ -12,8 +12,8 @@ https://github.com/Dopaminos/osu-imagemap-generator/assets/42616718/385422ea-4d5
 
 
 right now there's some flaws like:
-+you can't edit rectangles
-+you can't see rectangles you made
-+redirect link and title should be writed manually outside of the app
++ you can't edit rectangles
++ you can't see rectangles you made
++ redirect link and title should be writed manually outside of the app
 
 im not really planning to support it but maybe some time i will fix these
